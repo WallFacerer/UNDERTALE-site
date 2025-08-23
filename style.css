@@ -55,7 +55,7 @@ nav li a:hover {
 main {
   width: 90%;
   max-width: 800px;
-  margin: 40px auto 0 auto;
+  margin-left: 220px;
   background: #23272e;
   border-radius: 16px;
   box-shadow: 0 4px 24px #0008;
